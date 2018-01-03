@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16E195" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Biology" representedClassName="Biology" syncable="YES" codeGenerationType="class">
+        <attribute name="a" attributeType="String" syncable="YES"/>
+        <attribute name="q" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Languages" representedClassName="Languages" syncable="YES" codeGenerationType="class">
+        <attribute name="a" attributeType="String" syncable="YES"/>
+        <attribute name="q" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Mathematics" representedClassName="Mathematics" syncable="YES" codeGenerationType="class">
+        <attribute name="a" attributeType="String" syncable="YES"/>
+        <attribute name="q" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Physics" representedClassName="Physics" syncable="YES" codeGenerationType="class">
+        <attribute name="a" attributeType="Transformable" syncable="YES"/>
+        <attribute name="q" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Mathematics" positionX="-38" positionY="-18" width="128" height="73"/>
+        <element name="Languages" positionX="-38" positionY="-111" width="128" height="73"/>
+        <element name="Biology" positionX="108" positionY="-18" width="128" height="73"/>
+        <element name="Physics" positionX="106" positionY="-111" width="128" height="73"/>
+    </elements>
+</model>
